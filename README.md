@@ -7,7 +7,6 @@ Welcome to my GitHub profile!
 - 🔭 I’m currently working on Job Board Application
 - 🌱 I’m currently learning advanced Django and REST APIs
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about Python, Django, REST APIs, and backend development
 - 📫 How to reach me: tooba7987@gmail.com
 - ⚡ Fun fact: I love coding and coffee
 
